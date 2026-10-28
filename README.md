@@ -100,25 +100,30 @@ cv2.destroyAllWindows()
 
 Captured image is saved as `captured_image.jpg`.
 
-**Output Screenshot:** Add the actual screenshot here.
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/21f3f8f4-263d-482c-8973-75f8594e5ea1" />
+
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/ed004ac1-281e-41d1-a0e5-f6a4d90fc9dd" />
 
 ### ii) Display the video
 
 Live webcam video is displayed.
 
-**Output Screenshot:** Add the actual screenshot here.
+<img width="1917" height="1073" alt="image" src="https://github.com/user-attachments/assets/1c610a34-0b50-4240-9b94-771b43f178bf" />
+
 
 ### iii) Display the video by resizing the window
 
 Video is shown in resized resolution (640 × 480).
 
-**Output Screenshot:** Add the actual screenshot here.
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/f2247640-8bb7-4dfe-8e0c-ba03ad5edf9b" />
+
 
 ### iv) Rotate and display the video
 
 Video is displayed after rotation (90° clockwise).
 
-**Output Screenshot:** Add the actual screenshot here.
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/850d0806-c14e-4825-860b-0930e5fbbc75" />
+
 
 ---
 
